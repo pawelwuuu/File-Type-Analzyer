@@ -40,4 +40,4 @@ tape3.mp4: Unknown file type
 ```
 
 ## Download
-Download jar [here](https://github.com/pawelwuuu/File-Type-Analzyer/releases/download/release/File.type.analyzer.jar)
+Download jar [here](https://github.com/pawelwuuu/File-Type-Analzyer/releases/download/release/File.type.analyzer.jar).
