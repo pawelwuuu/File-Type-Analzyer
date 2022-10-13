@@ -38,6 +38,7 @@ Exemplary result:
 mkfds.pdf: Rar file
 tape3.mp4: Unknown file type
 ```
-
+## License
+Programme is released under GNU GPL license.
 ## Download
 Download jar [here](https://github.com/pawelwuuu/File-Type-Analzyer/releases/download/release/File.type.analyzer.jar).
